@@ -1,12 +1,12 @@
-# SVM-RBF-Comparison-MNIST
+# SVM-Kernels-Comparison-MNIST
 Commparing support vector machine vs. Radial basis function on the MNIST dataset
 
 
 1. [General](#General)
     - [Background](#background)
-    - [Program Structure](https://github.com/elaysason/Deep-Learning-Comparining-Overfitting/blob/main/README.md#program-structure)
+    - [Program Structure](https://github.com/elaysason/SVM-Kernels-Comparison-MNIST/blob/main/README.md#program-structure)
 2. [Installation](#installation)
-    - [Running Instructions](https://github.com/elaysason/Deep-Learning-Comparining-Overfitting/blob/main/README.md#running-instructions)
+    - [Running Instructions](https://github.com/elaysason/SVM-Kernels-Comparison-MNIST/blob/main/README.md#running-instructions)
 3. [Footnote](#footnote)
 
 ## General

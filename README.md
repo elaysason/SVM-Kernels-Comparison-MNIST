@@ -10,7 +10,7 @@ Commparing support vector machine vs. Radial basis function on the MNIST dataset
 3. [Footnote](#footnote)
 
 ## General
-The algorithms learn per network a training set of MISIT,the hand written digit database.It makes predictions of new set of digit (test set).
+The algorithms learn per algorithm a training set of MISIT,the hand written digit database.It makes predictions of new set of digit (test set).
 
 The MINSIT databse got digits from 0 to 9
 

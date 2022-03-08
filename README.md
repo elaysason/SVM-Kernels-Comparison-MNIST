@@ -15,3 +15,6 @@ The algorithms learn per network a training set of MISIT,the hand written digit 
 The MINSIT databse got digits from 0 to 9
 
 The various classifiers try to learn the the different characteristics unique to each digit, thus matching the digits in the test set to the digit that best suits it.
+
+### Background
+

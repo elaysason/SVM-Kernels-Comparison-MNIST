@@ -19,5 +19,6 @@ The various classifiers try to learn the the different characteristics unique to
 ### Background
 SVM is a suprvised learning model that is used for classifiction and regression analsis. In order to so it creates a hyperlane or multipule ones and classifiction is detrimned by being below or above the hyperlane and can be using kerenels in order to change the layout of the data created. Expalnation of the used kernels:
 
-* Linear Kernel - The basic kernel, it is one dimensional in nature.The best when there a large amount of features. It is way faster than the other kernels.
-* 
+* Linear Kernel - The basic kernel, it is one dimensional in nature.The best when there a large amount of features. It is way faster than the other kernels.Defined as F(x,y)=<x,y> where F is the decision boundary.
+* Polinomal Kernel -It is a more generalized representation of the linear kernel and defined as F(x,x') = <img src="https://i.imgur.com/CHUawNB.png" width=50% height=50%>
+* RBF Kernel - Very popular opition, usually used for non linear data. Defined as F(x,x') =  <img src="https://i.imgur.com/dDfidZg.png" width=50% height=50%>

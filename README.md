@@ -17,4 +17,5 @@ The MINSIT databse got digits from 0 to 9
 The various classifiers try to learn the the different characteristics unique to each digit, thus matching the digits in the test set to the digit that best suits it.
 
 ### Background
+SVM is a suprvised learning model that is used for classifiction and regression analsis. In order to so it creates a hyperlane or multipule ones and classifiction is detrimned by being below or above the hyperlane and can be using kerenels in order to change the hyperlane created.
 

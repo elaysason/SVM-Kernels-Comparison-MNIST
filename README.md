@@ -4,7 +4,6 @@ Commparing support vector machine vs. Radial basis function on the MNIST dataset
 
 1. [General](#General)
     - [Background](#background)
-    - [Program Structure](https://github.com/elaysason/SVM-Kernels-Comparison-MNIST/blob/main/README.md#program-structure)
 2. [Installation](#installation)
     - [Running Instructions](https://github.com/elaysason/SVM-Kernels-Comparison-MNIST/blob/main/README.md#running-instructions)
 3. [Footnote](#footnote)
@@ -22,3 +21,14 @@ SVM is a suprvised learning model that is used for classifiction and regression 
 * Linear Kernel - The basic kernel, it is one dimensional in nature.The best when there a large amount of features. It is way faster than the other kernels.Defined as F(x,y)=<x,y> where F is the decision boundary.
 * Polinomal Kernel -It is a more generalized representation of the linear kernel and defined as F(x,x') = <img src="https://i.imgur.com/CHUawNB.png" width=50% height=50%>
 * RBF Kernel - Very popular opition, usually used for non linear data. Defined as F(x,x') =  <img src="https://i.imgur.com/dDfidZg.png" width=60% height=60%>
+
+## Installation
+I will use google as an example but similar procces can be prefomred on other nootbook editors
+1. Open google colab
+2. Clone the project by:
+	```
+	!git clone https://github.com/elaysason/SVM-Kernels-Comparison-MNIST.git
+	```
+	<img src="https://i.imgur.com/FNPvWFe.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=30% height=30% />
+
+3. Now the folder is in your files on colab. simpily download the nootbook as showed

@@ -22,14 +22,14 @@ SVM is a suprvised learning model that is used for classifiction and regression 
 * RBF Kernel - Very popular opition, usually used for non linear data. Defined as F(x,x') =  <img src="https://i.imgur.com/dDfidZg.png" width=60% height=60%>
 
 ## Installation
-I will use google as an example but similar procces can be prefomred on other nootbook editors
-1. Open google colab
+I will use google as an example, but similar process can be performed on other notebook editors
+1. Open google Colab
 2. Clone the project by:
 	```
 	!git clone https://github.com/elaysason/SVM-Kernels-Comparison-MNIST.git
 	```
 	<img src="https://i.imgur.com/1vM7SEb.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=40% height=40% />
 
-3. Now the folder is in your files on colab. simpily download the nootbook as showed
+3. Now the folder is in your files on colab. simpily download the notebook as showed
 
 	<img src="https://i.imgur.com/RbUBifH.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=30% height=30% />
